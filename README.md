@@ -1,2 +1,2 @@
 # hello-world
-Hi everyone, my name is Malcolm and I new to HTML &amp; CSS
+Hi everyone, my name is Malcolm and I new to HTML and CSS
